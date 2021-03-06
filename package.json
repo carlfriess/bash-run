@@ -1,0 +1,15 @@
+{
+  "name": "bash-run",
+  "version": "0.0.0",
+  "description": "Simple framework for invoking bash commands from node.js scripts",
+  "main": "bash.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlfriess/bash-run.git"
+  },
+  "author": "Carl Friess",
+  "bugs": {
+    "url": "https://github.com/carlfriess/bash-run/issues"
+  },
+  "homepage": "https://github.com/carlfriess/bash-run#readme"
+}
