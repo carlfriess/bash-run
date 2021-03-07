@@ -11,5 +11,11 @@
   "bugs": {
     "url": "https://github.com/carlfriess/bash-run/issues"
   },
-  "homepage": "https://github.com/carlfriess/bash-run#readme"
+  "homepage": "https://github.com/carlfriess/bash-run#readme",
+  "keywords": [
+    "bash",
+    "command",
+    "run"
+  ],
+  "license": "MIT"
 }
